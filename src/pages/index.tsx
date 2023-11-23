@@ -14,8 +14,8 @@ const Home: NextPage = () => {
 
       <main className="flex flex-col justify-center items-center">
         <h1 className="text-2xl">
-          NEXT JS Template For Toggling themes using Tailwind CSS. Deploy this page with yarn as a base
-          it.
+          Template with light/dark theme switch using Tailwind CSS.
+    
         </h1>
         <div className="sm:flex">
           <h1 className="text-2xl mt-10">
