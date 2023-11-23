@@ -17,7 +17,7 @@ export default function Footer() {
             height={30}
           />
           <h1 className="text-black sm:text-2xl ml-2 dark:text-white">
-           Jesse Roper Light/Dark Toggle
+          toggle.JesseJesse.com
           </h1>
         </a>
       </div>
