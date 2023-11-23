@@ -27,7 +27,7 @@ const Home: NextPage = () => {
                 type="button"
                 className="flex items-center py-1 sm:py-1 px-1 sm:px-2 mx-2 bg-zinc-800 text-white dark:bg-zinc-200 dark:text-black rounded"
               >
-                <span className="mr-2">WEBSITE</span>
+                <span className="mr-2">Github</span>
                 <Image
                   className="white-filter dark:dark-filter"
                   src="/github.png"
@@ -48,7 +48,7 @@ const Home: NextPage = () => {
                 type="button"
                 className="py-1 sm:py-1 px-1 sm:px-2 mx-2 bg-zinc-800 text-white dark:bg-zinc-200 dark:text-black rounded"
               >
-                <span className="mr-2"> WEBSITE CONTENT</span>
+                <span className="mr-2">CONTENT</span>
                 <Image
                   className="white-filter dark:dark-filter"
                   src="/medium.png"
