@@ -15,7 +15,7 @@ export default function Header() {
         <div>
           <a
             className="flex items-center"
-            href="https://github.com/hossein13m/nextjs-tailwind-dark-theme"
+            href="https://github.com/sudo-self/light-dark"
             target="blank"
           >
             <Image
