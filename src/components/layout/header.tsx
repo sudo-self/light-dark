@@ -26,7 +26,7 @@ export default function Header() {
               height={27}
             />
             <h1 className="text-black sm:text-2xl ml-2 dark:text-white">
-             Website
+             Github
             </h1>
           </a>
         </div>
@@ -35,7 +35,7 @@ export default function Header() {
           className="py-1 sm:py-2.5 px-2 sm:px-5 mr-2 bg-zinc-800 text-white dark:bg-zinc-200 dark:text-black rounded"
           onClick={toggleThemeHandler}
         >
-          Color Mode
+          [MODE]
         </button>
       </div>
     </>
